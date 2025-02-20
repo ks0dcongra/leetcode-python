@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     # 建立新檔案
     with open(file_path, 'w'):
-        pass
+        passq
 
     print(f"Created: {file_path}")
 
