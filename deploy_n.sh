@@ -1,5 +1,5 @@
 python create_empty_files.py
-# python create_problems.py
+python create_problems.py
 git add .
 git commit -m "Update problem"
 git push
