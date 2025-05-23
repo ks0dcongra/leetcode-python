@@ -20,7 +20,7 @@ if __name__ == '__main__':
     file_path = os.path.join(dir_name, file_name)
 
     # 建立新檔案
-    # with open(file_path, 'w'):
-        # passq
+    with open(file_path, 'w'):
+        passq
 
     print(f"Created: {file_path}")
