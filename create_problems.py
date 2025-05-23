@@ -7,7 +7,7 @@ if __name__ == '__main__':
     except IndexError:
         print("Usage: python create_empty_file [filename]")
     print("Creating " + file_name + "in python dir...")
-    with open("Problems/" + file_name + ".py", 'w'):
+    with open("Python/" + file_name + ".py", 'w'):
         pass
   
     print("Done!")
