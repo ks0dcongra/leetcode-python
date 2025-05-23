@@ -1,7 +1,7 @@
 import sys
 
 if __name__ == '__main__':
-    file_name = 'test'
+    file_name = 'Empty'
     try:
         file_name = sys.argv[1]
     except IndexError:
