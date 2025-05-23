@@ -4,7 +4,7 @@ import glob
 
 if __name__ == '__main__':
     # 確保 'python' 資料夾存在
-    dir_name = 'python'
+    dir_name = 'Python'
     if not os.path.exists(dir_name):
         os.makedirs(dir_name)
 
